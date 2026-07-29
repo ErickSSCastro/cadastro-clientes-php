@@ -49,6 +49,16 @@ O arquivo SQL para criação da estrutura do banco está disponível na pasta:
 
 Praticar conceitos de desenvolvimento web, programação em PHP, banco de dados e operações CRUD.
 
+## 📷 Demonstração
+
+### Tela de cadastro
+
+![Tela de cadastro](tela-cadastro.png)
+
+### Lista de clientes
+
+![Lista de clientes](lista-clientes.png)
+
 ## 👨‍💻 Autor
 
 Erick Sander  
