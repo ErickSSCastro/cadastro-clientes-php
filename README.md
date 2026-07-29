@@ -43,23 +43,23 @@ O arquivo SQL para criação da estrutura do banco está disponível na pasta:
 4. Criar o banco de dados utilizando o arquivo SQL
 5. Acessar pelo navegador:
 
-`http://localhost/clientes`
+ `http://localhost/clientes`
 
-## 🎯 Objetivo
+ ## 🎯 Objetivo
 
-Praticar conceitos de desenvolvimento web, programação em PHP, banco de dados e operações CRUD.
+ Praticar conceitos de desenvolvimento web, programação em PHP, banco de dados e operações CRUD.
 
-## 📷 Demonstração
+ ## 📷 Demonstração
 
-### Tela de cadastro
+ ### Tela de cadastro
 
-![Tela de cadastro](tela-cadastro.png)
+ ![Tela de cadastro](tela-cadastro.png)
 
-### Lista de clientes
+ ### Lista de clientes
 
-![Lista de clientes](lista-clientes.png)
+ ![Lista de clientes](lista-clientes.png)
 
-## 👨‍💻 Autor
+ ## 👨‍💻 Autor
 
-Erick Sander  
-Estudante de Análise e Desenvolvimento de Sistemas
+ Erick Sander  
+ Estudante de Análise e Desenvolvimento de Sistemas
